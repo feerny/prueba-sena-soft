@@ -27,3 +27,10 @@ Te presentamos un pequeño video demostrativo de cómo descargar los recursos
 
 Te deseamos toda la suerte de este mundo en este proceso.
 Esperamos que lo des todo por el desarrollo.
+
+
+-------------------------aviso-----------------------------
+para visualizar la pagina con los estilos e imagenes 
+usar go live de visual studio code ya que por un error
+del editor de codigo solo deja visualizarlos asi
+
